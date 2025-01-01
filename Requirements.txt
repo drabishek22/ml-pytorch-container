@@ -1,0 +1,25 @@
+# Essential libraries
+numpy==1.19.2
+pandas==1.1.5
+matplotlib==3.3.4
+scikit-learn==0.23.2
+scipy==1.5.4
+seaborn==0.11.0
+tqdm==4.51.0
+
+# Deep learning frameworks (compatible with CUDA 10.2)
+# PyTorch and torchvision (compatible with CUDA 10.2)
+torchaudio==0.7.2
+tensorflow==2.4.0
+keras==2.4.3
+
+# Additional tools
+opencv-python==4.5.1.48
+opencv-contrib-python==4.5.1.48
+pillow==8.1.0
+h5py==2.10.0
+jupyterlab==3.0.5
+
+
+
+
